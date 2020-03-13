@@ -49,3 +49,5 @@ log4net日志管理系统(.Net Core). log4net for .Net Core.
 log4net的配置非常灵活，详细请参见示例自己调试，下图是输出效果:      
 
 ![image](https://github.com/bzmework/log4net/blob/master/test.jpg)     
+
+QQ讨论群：```948127686```   
